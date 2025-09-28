@@ -31,6 +31,9 @@ List of Blogs :
 
 <img width="1519" height="693" alt="Page6" src="https://github.com/user-attachments/assets/8132b432-488c-4a28-b5ee-6b9ee7c2ccc4" />
 
+
+
+
 To Poll : Who Have Same Feeling :
 
 <img width="1142" height="757" alt="Page7" src="https://github.com/user-attachments/assets/7689f92d-cc87-480c-a389-0a4c1ebe7393" />
